@@ -1,5 +1,11 @@
+/* font link  */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .banner-section{
-    background-image:url(Banner\ Image.png);
+    background-image:url("Banner\ Image.png");
     width: 1320px;
     height: 600px;
     margin-left: auto;
@@ -84,3 +90,37 @@
     top: 90px;
 }
 
+/* section place hotel date and time  */
+
+.hotel-place{
+    width: 1320px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(rgb(250, 226, 226),white);
+    margin-top: 60px;
+    border-radius: 15px;
+}
+
+span{
+    color: red;
+}
+.hotel-div{
+    padding-top: 100px ;
+    text-align: center;
+    font-size: 1.5em;
+}
+.hotel-h1{
+    margin: 8px;
+}
+
+#hotel-button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 30px;
+    color: white;
+    border: none;
+    background-color: red;
+    border-radius: 10PX ;
+    margin-top: 40px;
+}
