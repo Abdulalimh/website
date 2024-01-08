@@ -7,16 +7,17 @@ body{
 /* *** Stert *** section banner  */
 
 .banner-section{
-    background-image:url(images/Banner-Image.png);
+    /* background-color: aquamarine; */
+    background-image: url(/images/Banner-image.png);
     width: 1320px;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
+    
 }
 .banner-article{
-    color:white;
-    text-align: center;
-    justify-content: center;
+    color:rgb(29, 4, 4);
+   
 }   
 
 /**** End section *** */
@@ -70,7 +71,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 60px;
-    background-image: url("images/Vectorrr.png");
+    background-image: url("/images/Vectorrr.png");
     
 }
 .well-mother{
@@ -79,17 +80,19 @@ body{
 .well-div-mother{
     position: relative;
     left: 120px;
-    top: 110px;
+    top: 100px;
+    padding-right: 150px;
     
 
 }
 #well-h1{
-    font-size: 60px;
+    font-size: 50px;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 #well-p{
     color: white;
-    font-size: 20px;
+    font-size: 16px;
 
 }
 #well-button{
@@ -101,7 +104,7 @@ body{
 }
 .well-img{
     position: relative;
-    left: 200px;
+    left: 40px;
     top: 90px;
 }
 
