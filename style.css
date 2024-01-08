@@ -4,6 +4,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* *** Stert *** section banner  */
+
 .banner-section{
     background-image:url("Banner\ Image.png");
     width: 1320px;
@@ -17,11 +19,17 @@ body{
     justify-content: center;
 }   
 
+/**** End section *** */
+/**** End section *** */
 
-.section-2{
+
+ /* Stert section 65 % Off  */
+ /* ================ */
+ /* ================= */
+ 
+ .section-2{
     width: 802px;
     height: 806px;
-    /* background-color: aquamarine; */
     margin-left: auto;
     margin-right: auto;
     margin-top: 80px;
@@ -48,13 +56,20 @@ body{
     padding-top: 25px;
 }
 
-/* section weell come to idnight party */
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert *** section weell come to idnight party */
+/* ====================== */
+/* ========================= */
+
 
 .well-come{
     width: 1320px;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 60px;
     background-image: url(Vectorrr.png);
     
 }
@@ -90,7 +105,14 @@ body{
     top: 90px;
 }
 
-/* section place hotel date and time  */
+/**** End section *** */
+/**** End section *** */
+
+/* Stert ***section place hotel date and time  */
+/* ===================================== */
+/* =====================================
+====================================*/
+
 
 .hotel-place{
     width: 1320px;
@@ -123,4 +145,35 @@ span{
     background-color: red;
     border-radius: 10PX ;
     margin-top: 40px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** section best offer  */
+.new-section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1320px;
+    height: 463px;
+    margin-top: 100px;
+
+}
+
+.best-offer-div{
+    display:flex;
+    gap: 50px;
+   
+    
+}
+#img{
+    padding: 30px;
+}
+
+.ellipse-img{
+    border: 18px solid red;
+    border-radius: 300px 300px;
+    width: 365px;
+    
+    
 }
