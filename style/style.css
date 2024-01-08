@@ -244,10 +244,11 @@ span{
 
 .holyday-section{
     width: 1320px;
-    height: 986px;
-    background-color: aquamarine;
+    height: 757px;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+    margin-top: 100px;
 }
 .holy-div{
     text-align: center;
@@ -268,4 +269,29 @@ span{
 #holy-p{
     padding-left: 266px;
     padding-right: 266px;
+}
+.holy-img-div{
+   
+}
+.img-50{
+    position: absolute;
+    left: 736px;
+    top: 309px;
+}
+.img-lady{
+    position: relative;
+    left: 892px;
+    top: 7px;
+}
+.img-gift{
+    position: absolute;
+    top: 250px;
+    bottom: 0px;
+}
+.img-red{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    right: 0px;
+    
 }
