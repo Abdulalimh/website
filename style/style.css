@@ -7,7 +7,7 @@ body{
 /* *** Stert *** section banner  */
 
 .banner-section{
-    background-image:url("Banner\ Image.png");
+    background-image:url(images/Banner-Image.png);
     width: 1320px;
     height: 600px;
     margin-left: auto;
@@ -70,7 +70,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 60px;
-    background-image: url(Vectorrr.png);
+    background-image: url("images/Vectorrr.png");
     
 }
 .well-mother{
@@ -186,7 +186,7 @@ span{
 }
 
 .div-ellipse{
-    padding-left: 20px;
+    
     padding-right: 50px;
 }
 .ellipse-img{
@@ -213,4 +213,17 @@ span{
 }
 #happy-img{
     margin-top: 40px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** section holyday  */
+
+.holyday-section{
+    width: 1320px;
+    height: 986px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
 }
