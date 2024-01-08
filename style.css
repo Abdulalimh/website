@@ -1,0 +1,86 @@
+.banner-section{
+    background-image:url(Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner-article{
+    color:white;
+    text-align: center;
+    justify-content: center;
+}   
+
+
+.section-2{
+    width: 802px;
+    height: 806px;
+    /* background-color: aquamarine; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+#off{
+    font-size:80px;
+    text-align: center;
+    padding-top: 40px;
+    color: rgb(213, 46, 46);
+    margin: 0px;
+}
+#our-holy{
+    text-align: center;
+    margin-bottom: 0px;
+    color: rgba(241, 58, 58, 0.869);
+}
+#all-cate{
+    text-align: center;
+    font-size: 26px;
+    margin: 5px;
+    
+}
+#new-year-img{
+    padding-top: 25px;
+}
+
+/* section weell come to idnight party */
+
+.well-come{
+    width: 1320px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(Vectorrr.png);
+    
+}
+.well-mother{
+    display: flex;
+}
+.well-div-mother{
+    position: relative;
+    left: 120px;
+    top: 110px;
+    
+
+}
+#well-h1{
+    font-size: 60px;
+    color: white;
+}
+#well-p{
+    color: white;
+    font-size: 20px;
+
+}
+#well-button{
+    margin-top: 40px;
+    background:none;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+}
+.well-img{
+    position: relative;
+    left: 200px;
+    top: 90px;
+}
+
