@@ -328,9 +328,6 @@ span{
     font-weight: 400;
     margin-right: 35%;
 }
-.img-parent{
-   
-}
 
 .img{
     display: flex;
@@ -341,4 +338,73 @@ span{
 .img-size{
     width: 420px;
     height: 445px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** Subscribe Newsletter section  */
+
+.Subscribe-section{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05); 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.parent-div{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.subs-h1{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+}
+
+#subs-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.search-box{
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    position: relative;
+    left:350px;
+    top: 80px;
+}
+#sear-box-p{
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 18px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.subscribe-box{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    position: relative;
+    left:782px;
+    top: -12px;
+}
+#sub-box-p{
+    color: #FFF; 
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 18px;
 }
