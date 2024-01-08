@@ -16,9 +16,28 @@ body{
     
 }
 .banner-article{
-    color:rgb(29, 4, 4);
+    color:rgba(203, 238, 202, 0.857);
+    text-align: center;
+    position: relative;
+    top: 230px;
    
-}   
+}  
+#banner-p1{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+#banner-p2{
+    font-size: 55px;
+    margin: 0px;
+    padding: 0px;
+}
+#banner-p3{
+    font-size: 55px;
+    margin: 0px;
+    padding: 0px;
+}
+
 
 /**** End section *** */
 /**** End section *** */
@@ -229,4 +248,24 @@ span{
     background-color: aquamarine;
     margin-left: auto;
     margin-right: auto;
+}
+.holy-div{
+    text-align: center;
+}
+#holy-what{
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#holyday-h1{
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 28px;
+    margin-top: 0px;
+    padding: 0px;
+}
+#holy-p{
+    padding-left: 266px;
+    padding-right: 266px;
 }
