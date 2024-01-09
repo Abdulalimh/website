@@ -12,30 +12,34 @@ body{
     width: 1320px;
     height: 600px;
     margin-left: auto;
-    margin-right: auto;
-    
+    margin-right: auto;  
 }
+ 
 .banner-article{
-    color:rgba(203, 238, 202, 0.857);
     text-align: center;
     position: relative;
     top: 230px;
+    background-color: #07021123;
+    
    
 }  
 #banner-p1{
     font-size: 30px;
     margin: 0px;
     padding: 0px;
+    color: azure;
 }
 #banner-p2{
     font-size: 55px;
     margin: 0px;
     padding: 0px;
+    color: azure;
 }
 #banner-p3{
     font-size: 55px;
     margin: 0px;
     padding: 0px;
+    color: azure;
 }
 
 
